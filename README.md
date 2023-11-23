@@ -1,6 +1,7 @@
 # ghorer_bazar
 
 A new Flutter project.
+A flutter dart project where there is a splash screen,login and registration pages
 
 ## Getting Started
 
